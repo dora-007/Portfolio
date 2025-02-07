@@ -260,6 +260,10 @@ span {
         font-size: 5rem;
     }
 
+    .typing-text {
+        font-size: 3rem;
+    }
+
     .home-img img {
         width: 70vw;
         margin-top: 2rem;
